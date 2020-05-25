@@ -2,8 +2,10 @@
 This contains a collection of API Docs and Design resources that I have found helpful in developing stellar API documentation.
 
 ## API design guidelines, styleguides, schemas
+### Collections
 * [API Stylebook](http://apistylebook.com/design/guidelines/)
 * [awesome-api](https://github.com/Kikobeats/awesome-api/blob/master/README.md)
+### Individual Resources
 * [Adello: Our API Style Guide](https://adello.github.io/API-Style-Guide/)
 * [Apiary API Style Guide](https://help.apiary.io/tools/style-guide/)
 * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
@@ -15,6 +17,6 @@ This contains a collection of API Docs and Design resources that I have found he
 * [Watson Developer Cloud services REST API Guidelines](https://github.com/watson-developer-cloud/api-guidelines)
 * [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
 
-## API docs styleguides
+## API / Dev docs styleguides
 ### Docs specs
 * [OpenAPI Specification v3.0.3](https://swagger.io/specification/)
