@@ -3,6 +3,7 @@ This contains a collection of API Docs and Design resources that I have found he
 
 ## API design guidelines, styleguides, schemas
 ### Collections
+* [A guide to RESTful API design: 35+ must-reads](https://techbeacon.com/app-dev-testing/guide-restful-api-design-35-must-reads)
 * [API Stylebook](http://apistylebook.com/design/guidelines/)
 * [awesome-api](https://github.com/Kikobeats/awesome-api/blob/master/README.md)
 ### Individual Resources
