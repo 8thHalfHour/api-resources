@@ -16,4 +16,5 @@ This contains a collection of API Docs and Design resources that I have found he
 * [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
 
 ## API docs styleguides
-* 
+### Docs specs
+* [OpenAPI Specification v3.0.3](https://swagger.io/specification/)
