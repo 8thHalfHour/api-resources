@@ -7,6 +7,7 @@ This contains a collection of API Docs and Design resources that I have found he
 * [API Stylebook](http://apistylebook.com/design/guidelines/)
 * [awesome-api](https://github.com/Kikobeats/awesome-api/blob/master/README.md)
 ### Individual Resources
+* [Ideal REST API design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/)
 * [Adello: Our API Style Guide](https://adello.github.io/API-Style-Guide/)
 * [Apiary API Style Guide](https://help.apiary.io/tools/style-guide/)
 * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
