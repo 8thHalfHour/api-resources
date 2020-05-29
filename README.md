@@ -1,5 +1,5 @@
 # api-resources
-This contains a collection of API Docs and Design resources that I have found helpful in developing stellar API documentation.
+This contains a collection of *completely free* API Docs and Design resources that I have found helpful in developing stellar API documentation.
 
 ## API design guidelines, styleguides, schemas
 ### Collections
@@ -23,3 +23,20 @@ This contains a collection of API Docs and Design resources that I have found he
 ## API / Dev docs styleguides
 ### Docs specs
 * [OpenAPI Specification v3.0.3](https://swagger.io/specification/)
+
+## Testing APIs
+### Postman
+* [API testing with Postman](https://www.youtube.com/watch?v=g0H1zM-qskM)
+* [Easy Postman Tutorial for Beginners](https://www.toolsqa.com/postman-tutorial/)
+* [Get Started with Postman](https://learning.postman.com/getting-started/)
+* [Manual API Testing using Postman for Beginners](https://www.srijan.net/blog/manual-api-testing-using-postman)
+* [Postman Beginner Tutorial](https://www.youtube.com/playlist?list=PLhW3qG5bs-L-oT0GenwPLcJAPD_SiFK3C)
+* [POSTMAN Tutorial: API Testing Using POSTMAN](https://www.softwaretestinghelp.com/api-testing-using-postman/)
+* [Postman Tutorial | Postman Crash Course for Beginners](https://www.youtube.com/watch?v=DfuvU2dN6tE)
+* [Postman Tutorial for Automation : All you need to know](https://www.cuelogic.com/blog/postman-tutorial-for-automation)
+* [Postman Tutorial for Beginners with API Testing Example](https://www.guru99.com/postman-tutorial.html)
+* [VIDEO - Postman Tutorial | Postman Crash Course for Beginners](https://www.youtube.com/watch?v=DfuvU2dN6tE)
+* [VIDEO - Postman API Crash Course for Beginners 2020 - Learn Postman in 1 hour](https://www.youtube.com/watch?v=Iq7eh6DhN6M)
+* [WebServices API Testing using Postman](https://www.youtube.com/watch?v=Cehqw_qbv5I)
+### Using APIs
+* [APIs for Beginners - How to use an API - Full Course / Tutorial](https://www.youtube.com/watch?v=GZvSYJDk-us)
